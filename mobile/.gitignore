@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Embedded copy of ../index.html (scripts/embed-web-app.js)
+src/webAppHtml.generated.ts
